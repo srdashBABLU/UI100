@@ -171,7 +171,7 @@ fun P2InterestsPage(){
             }
 
             Spacer(modifier = Modifier.width(14.dp))
-
+ // 12
             Card(
                 modifier = Modifier.height(56.dp).weight(1f),
                 shape = RoundedCornerShape(32.dp),
